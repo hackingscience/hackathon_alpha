@@ -1,0 +1,13 @@
+# emacs cruft
+*~
+\#*
+.\#*
+
+# vi cruft
+*.swp
+*.swo
+
+# osx cruft
+.DS_Store
+nohup.out
+
